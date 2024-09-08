@@ -1,13 +1,13 @@
 # calculator
 ## Usage
-### 1 Basic Operations:
+#### 1 Basic Operations:
 
  - Click on number buttons (0-9) to enter numbers.
  - Click on operator buttons (+, -, *, /, %) to set the operation.
  - Press = to calculate the result.
  - Press C to clear the current input and reset the calculator.
 
-### 2 Using π (pi):
+#### 2 Using π (pi):
 
  - Click the π button to insert π into the calculation.
  - π is approximated as Math.PI in calculations.
